@@ -1,0 +1,27 @@
+{
+    "app_name":"maple-bot",
+    "domain": "https://maple-bot-v2.vercel.app",
+    "host":"",
+    "port":"",
+    "bot": {
+        "token": "6743232182:AAG54njB-10Yq12312dffdsdjAFFJx14ngfj38s",
+        "run_mode": "polling",
+        "webhook_sub_path": "/telegram/bots/",
+        "webhook_secret_token": "ahfdsfgdgn8xs4",
+        "web_app_url":"https://t.me/YYMapleBot/webapp",
+        "super_admins": [
+            "5014246776"
+        ]
+    },
+    "github_app":{
+        "client_id":"Iv23casdfasztlQ22P4fW",
+        "client_secret":"fa1b5c09d39asdasdf45f48b2ee9956a6cb6b52d5886",
+        "callback_path":"/github/oauth/callback"
+    },
+    "cloudflare_kv":{
+        "api_token":"R9EiKa60rsdfsdfKjC_viqcoWpherrxxj",
+        "account_id":"ed8510cd9sdfsdfa3c19dfd2be3bc0a",
+        "namespace_id":"19adc04dsdfgsdggc2d9200e5ef3e8"
+    },
+    "log_level": "debug"
+}
